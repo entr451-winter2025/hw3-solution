@@ -1,3 +1,3 @@
-# ENTR-451 Homework #3
+# ENTR-451 Assignment #3
 
-Full instructions at https://entr451.com/homework-3/
+Full instructions at https://entr451.com/assignment-3/
